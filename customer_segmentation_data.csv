@@ -1,0 +1,201 @@
+CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100),Marital Status,Employment Status,Number of Children,Education Level,Membership Level,Years as Customer
+1,Male,49,22,12,Single,Unemployed,3,Bachelor's,Premium,7
+2,Female,56,41,25,Married,Unemployed,4,Master's,Basic,18
+3,Male,66,41,52,Married,Employed,3,High School,Premium,4
+4,Male,69,35,85,Married,Employed,4,Master's,Silver,2
+5,Male,49,44,100,Married,Employed,4,Bachelor's,Premium,14
+6,Female,21,111,53,Single,Employed,4,Bachelor's,Premium,13
+7,Male,47,42,23,Married,Unemployed,3,PhD,Premium,12
+8,Male,54,125,16,Single,Self-employed,3,High School,Premium,7
+9,Male,40,75,57,Married,Employed,4,Bachelor's,Basic,2
+10,Female,56,62,39,Married,Employed,1,PhD,Basic,13
+11,Male,62,18,53,Married,Unemployed,2,High School,Silver,14
+12,Male,32,49,42,Married,Self-employed,2,Bachelor's,Basic,17
+13,Male,60,63,58,Married,Self-employed,2,Bachelor's,Basic,9
+14,Male,46,31,39,Single,Unemployed,3,High School,Silver,17
+15,Female,53,60,14,Single,Unemployed,3,High School,Basic,8
+16,Male,30,131,95,Married,Self-employed,1,High School,Basic,2
+17,Female,49,20,5,Married,Employed,2,Bachelor's,Silver,13
+18,Female,24,113,35,Single,Self-employed,2,Bachelor's,Silver,3
+19,Female,68,138,87,Married,Unemployed,4,PhD,Silver,16
+20,Male,39,51,93,Married,Employed,3,Master's,Premium,6
+21,Female,45,38,75,Single,Employed,2,High School,Premium,19
+22,Male,19,107,18,Married,Unemployed,1,Bachelor's,Silver,7
+23,Female,59,60,76,Married,Unemployed,1,Bachelor's,Silver,10
+24,Female,62,109,9,Single,Unemployed,2,High School,Silver,9
+25,Female,23,113,74,Single,Self-employed,3,Master's,Premium,2
+26,Female,45,130,58,Single,Self-employed,1,High School,Premium,15
+27,Female,45,81,17,Married,Employed,4,Master's,Basic,5
+28,Female,61,142,7,Single,Unemployed,1,Bachelor's,Basic,4
+29,Female,61,32,46,Single,Employed,0,Master's,Silver,20
+30,Female,37,39,13,Single,Employed,0,PhD,Premium,4
+31,Male,47,68,40,Single,Employed,3,Bachelor's,Premium,18
+32,Male,28,72,42,Single,Employed,2,PhD,Premium,4
+33,Female,45,81,9,Single,Unemployed,3,High School,Silver,17
+34,Female,42,118,50,Married,Employed,3,High School,Basic,12
+35,Female,56,38,27,Married,Unemployed,3,High School,Silver,17
+36,Male,50,128,66,Single,Unemployed,3,Master's,Basic,10
+37,Female,18,46,5,Single,Self-employed,4,Bachelor's,Basic,1
+38,Male,44,100,29,Single,Unemployed,4,High School,Silver,18
+39,Male,69,141,37,Married,Self-employed,1,High School,Basic,18
+40,Male,30,144,38,Married,Unemployed,0,Bachelor's,Basic,14
+41,Male,58,31,83,Married,Unemployed,3,High School,Premium,15
+42,Male,20,118,8,Married,Unemployed,1,PhD,Basic,12
+43,Female,56,57,65,Married,Self-employed,0,Bachelor's,Silver,4
+44,Female,23,53,86,Married,Self-employed,2,Bachelor's,Silver,3
+45,Female,25,40,17,Married,Employed,4,Bachelor's,Basic,20
+46,Female,44,113,71,Married,Self-employed,0,PhD,Premium,12
+47,Female,26,64,89,Married,Self-employed,2,Bachelor's,Premium,7
+48,Male,54,27,45,Single,Self-employed,0,PhD,Basic,11
+49,Female,50,74,4,Single,Self-employed,4,Bachelor's,Basic,1
+50,Female,68,149,36,Single,Employed,4,Master's,Silver,6
+51,Male,59,71,70,Single,Self-employed,1,High School,Basic,15
+52,Female,61,50,31,Married,Unemployed,3,Master's,Premium,15
+53,Male,41,34,19,Married,Unemployed,0,High School,Basic,19
+54,Female,32,79,61,Single,Self-employed,0,PhD,Silver,11
+55,Male,49,22,54,Married,Self-employed,2,Master's,Silver,2
+56,Female,49,129,39,Single,Unemployed,4,Bachelor's,Silver,14
+57,Female,41,106,91,Married,Unemployed,0,High School,Silver,2
+58,Male,58,112,74,Single,Employed,4,High School,Silver,4
+59,Male,69,80,90,Married,Unemployed,0,Master's,Basic,17
+60,Male,66,46,19,Married,Unemployed,1,PhD,Basic,3
+61,Male,66,100,39,Single,Self-employed,3,Master's,Basic,13
+62,Male,69,65,67,Married,Unemployed,0,PhD,Basic,9
+63,Male,29,77,45,Single,Employed,4,PhD,Silver,7
+64,Male,56,139,13,Single,Unemployed,1,High School,Premium,15
+65,Male,19,72,92,Single,Self-employed,0,Master's,Basic,11
+66,Female,20,72,58,Single,Self-employed,2,Master's,Premium,20
+67,Female,66,100,20,Married,Unemployed,3,PhD,Basic,2
+68,Male,54,63,92,Married,Self-employed,0,Master's,Basic,15
+69,Female,66,84,72,Married,Employed,1,Bachelor's,Premium,14
+70,Female,34,29,61,Single,Employed,2,Bachelor's,Silver,20
+71,Female,66,68,39,Married,Unemployed,1,Master's,Basic,11
+72,Female,19,115,1,Single,Unemployed,1,Master's,Basic,3
+73,Male,19,22,3,Married,Unemployed,2,PhD,Basic,17
+74,Female,45,67,77,Married,Self-employed,1,Bachelor's,Premium,12
+75,Male,40,74,92,Married,Employed,2,Bachelor's,Silver,15
+76,Female,54,122,62,Single,Employed,0,High School,Premium,16
+77,Female,49,19,63,Married,Self-employed,2,PhD,Premium,5
+78,Female,50,117,25,Married,Employed,2,High School,Silver,20
+79,Male,18,20,56,Single,Unemployed,3,Bachelor's,Premium,6
+80,Female,36,123,33,Married,Unemployed,2,PhD,Silver,19
+81,Male,19,130,38,Single,Unemployed,2,Master's,Basic,5
+82,Female,61,108,6,Married,Employed,0,PhD,Silver,3
+83,Male,43,61,58,Single,Unemployed,3,Master's,Basic,1
+84,Female,49,113,44,Single,Self-employed,4,Master's,Premium,6
+85,Male,23,69,45,Married,Self-employed,0,PhD,Premium,15
+86,Male,49,66,32,Single,Employed,0,Master's,Basic,2
+87,Female,21,27,45,Single,Self-employed,4,High School,Premium,3
+88,Male,28,128,61,Single,Self-employed,2,Bachelor's,Silver,17
+89,Female,34,138,47,Single,Employed,1,Master's,Basic,12
+90,Female,55,120,21,Single,Unemployed,3,High School,Premium,18
+91,Female,41,134,80,Single,Unemployed,1,Master's,Basic,15
+92,Female,22,77,85,Married,Unemployed,4,Bachelor's,Silver,12
+93,Female,69,33,75,Single,Employed,0,High School,Silver,16
+94,Female,51,106,36,Single,Self-employed,0,Bachelor's,Premium,8
+95,Female,23,72,99,Married,Unemployed,3,Bachelor's,Silver,14
+96,Female,39,104,19,Married,Unemployed,0,High School,Basic,17
+97,Female,28,131,20,Married,Employed,0,High School,Silver,8
+98,Female,65,76,57,Married,Unemployed,3,High School,Basic,15
+99,Female,33,37,18,Married,Employed,3,PhD,Basic,14
+100,Male,50,141,47,Married,Self-employed,4,High School,Silver,18
+101,Male,26,143,49,Married,Employed,0,High School,Premium,20
+102,Female,23,72,14,Single,Employed,0,High School,Silver,7
+103,Female,33,136,15,Single,Employed,4,High School,Basic,3
+104,Female,46,15,31,Married,Employed,2,Master's,Basic,12
+105,Female,20,48,1,Single,Self-employed,2,PhD,Silver,3
+106,Female,37,110,54,Single,Self-employed,2,Bachelor's,Premium,20
+107,Female,53,140,3,Single,Unemployed,4,High School,Premium,14
+108,Female,36,132,16,Married,Self-employed,0,Master's,Basic,15
+109,Female,43,62,87,Married,Self-employed,4,Master's,Basic,14
+110,Male,20,103,57,Single,Unemployed,4,Master's,Premium,7
+111,Female,36,131,75,Married,Self-employed,2,Bachelor's,Silver,17
+112,Male,37,143,12,Single,Employed,1,High School,Basic,12
+113,Female,49,30,74,Single,Employed,0,PhD,Basic,20
+114,Female,24,83,96,Single,Unemployed,2,PhD,Premium,4
+115,Male,69,36,16,Single,Unemployed,1,Master's,Silver,9
+116,Female,58,107,72,Married,Unemployed,1,Bachelor's,Premium,6
+117,Male,50,90,76,Married,Employed,3,Bachelor's,Silver,16
+118,Female,57,100,24,Married,Self-employed,0,Bachelor's,Silver,2
+119,Female,56,43,28,Single,Employed,1,PhD,Silver,8
+120,Male,35,83,8,Married,Unemployed,2,Master's,Basic,11
+121,Female,57,61,92,Single,Self-employed,3,High School,Premium,13
+122,Male,18,108,36,Married,Self-employed,0,PhD,Premium,17
+123,Female,28,99,90,Single,Employed,4,Master's,Silver,8
+124,Male,45,53,8,Single,Unemployed,2,Master's,Basic,18
+125,Male,42,114,58,Single,Employed,1,High School,Basic,18
+126,Female,67,47,60,Married,Self-employed,1,High School,Premium,14
+127,Female,40,115,50,Married,Employed,2,High School,Basic,15
+128,Male,48,37,28,Married,Employed,1,Bachelor's,Basic,6
+129,Female,47,24,92,Married,Unemployed,3,High School,Silver,11
+130,Female,59,83,41,Single,Unemployed,0,Master's,Basic,13
+131,Female,52,114,100,Married,Self-employed,3,High School,Silver,1
+132,Male,24,48,64,Married,Employed,1,Master's,Premium,6
+133,Male,33,110,27,Single,Employed,4,PhD,Basic,9
+134,Male,43,15,63,Single,Employed,0,Bachelor's,Premium,8
+135,Male,65,83,17,Single,Self-employed,0,PhD,Premium,11
+136,Male,69,18,73,Married,Self-employed,2,PhD,Basic,19
+137,Male,66,30,33,Single,Unemployed,2,Master's,Basic,9
+138,Male,19,38,84,Single,Unemployed,4,PhD,Premium,17
+139,Male,18,94,77,Single,Unemployed,0,Master's,Basic,12
+140,Male,65,16,92,Married,Employed,4,High School,Silver,14
+141,Female,29,142,29,Single,Employed,2,High School,Silver,15
+142,Male,22,98,13,Married,Unemployed,2,Master's,Basic,16
+143,Female,54,138,46,Married,Employed,0,High School,Premium,20
+144,Female,49,47,35,Single,Unemployed,3,Bachelor's,Basic,1
+145,Female,26,115,6,Single,Self-employed,1,PhD,Basic,10
+146,Male,58,26,82,Married,Unemployed,2,Bachelor's,Premium,8
+147,Male,52,81,69,Single,Self-employed,2,PhD,Premium,18
+148,Male,36,79,47,Single,Employed,3,High School,Silver,1
+149,Male,65,88,25,Married,Unemployed,3,Bachelor's,Premium,2
+150,Female,33,57,66,Married,Employed,4,High School,Silver,1
+151,Male,20,58,10,Single,Self-employed,4,PhD,Premium,1
+152,Male,37,43,56,Married,Self-employed,1,Master's,Basic,9
+153,Male,41,26,30,Single,Self-employed,1,Master's,Silver,13
+154,Male,50,109,5,Single,Employed,0,Bachelor's,Silver,1
+155,Male,41,60,33,Single,Employed,4,High School,Silver,13
+156,Female,69,144,65,Married,Employed,2,High School,Basic,20
+157,Male,28,49,18,Single,Employed,4,Bachelor's,Basic,7
+158,Female,66,95,96,Single,Self-employed,2,Master's,Basic,2
+159,Male,25,104,49,Single,Self-employed,3,PhD,Basic,6
+160,Female,53,22,11,Married,Unemployed,4,Bachelor's,Basic,7
+161,Male,55,107,85,Married,Unemployed,3,PhD,Silver,14
+162,Male,57,104,26,Married,Employed,1,Master's,Basic,18
+163,Female,37,129,63,Married,Self-employed,1,High School,Silver,15
+164,Female,52,119,89,Married,Self-employed,0,Master's,Basic,2
+165,Female,65,149,86,Single,Self-employed,4,Bachelor's,Premium,10
+166,Male,42,72,59,Married,Unemployed,3,High School,Silver,12
+167,Female,52,128,27,Married,Unemployed,2,Bachelor's,Premium,17
+168,Male,42,89,49,Married,Self-employed,1,Bachelor's,Silver,8
+169,Male,46,134,77,Single,Self-employed,1,Master's,Premium,11
+170,Female,35,35,33,Married,Self-employed,2,Bachelor's,Basic,3
+171,Female,63,115,98,Married,Unemployed,3,Master's,Basic,6
+172,Male,35,113,99,Single,Self-employed,3,High School,Basic,9
+173,Male,19,50,1,Married,Self-employed,4,Master's,Silver,6
+174,Female,52,110,21,Single,Employed,4,High School,Premium,9
+175,Female,33,51,55,Single,Employed,0,Master's,Basic,7
+176,Female,58,26,6,Single,Unemployed,1,PhD,Premium,9
+177,Male,53,127,92,Single,Self-employed,4,PhD,Premium,18
+178,Male,50,27,81,Single,Self-employed,3,Bachelor's,Basic,12
+179,Male,21,37,69,Married,Employed,2,Master's,Basic,8
+180,Male,50,113,95,Single,Unemployed,3,Master's,Premium,8
+181,Male,31,119,5,Single,Employed,1,High School,Basic,18
+182,Male,38,44,3,Married,Employed,3,Bachelor's,Basic,20
+183,Female,65,31,53,Single,Employed,0,Master's,Basic,15
+184,Male,37,127,23,Married,Employed,1,Bachelor's,Silver,7
+185,Male,25,76,53,Married,Self-employed,2,PhD,Premium,11
+186,Male,24,98,37,Married,Self-employed,0,Master's,Premium,20
+187,Female,20,126,74,Single,Employed,1,Master's,Silver,16
+188,Male,34,100,74,Single,Unemployed,2,Bachelor's,Premium,4
+189,Male,50,33,83,Single,Unemployed,0,Master's,Basic,6
+190,Female,65,114,17,Married,Unemployed,0,Bachelor's,Premium,3
+191,Male,29,90,85,Single,Unemployed,1,Master's,Basic,9
+192,Male,68,23,78,Single,Employed,4,High School,Silver,10
+193,Male,39,42,73,Single,Self-employed,0,Bachelor's,Basic,14
+194,Male,39,142,1,Married,Unemployed,0,Master's,Premium,11
+195,Male,63,66,51,Married,Employed,2,PhD,Premium,18
+196,Female,47,97,45,Single,Unemployed,3,Master's,Premium,12
+197,Female,55,125,77,Single,Unemployed,1,PhD,Silver,12
+198,Female,55,131,4,Single,Employed,1,PhD,Silver,13
+199,Male,62,83,62,Single,Self-employed,4,High School,Premium,13
+200,Male,68,113,65,Married,Self-employed,4,Bachelor's,Basic,19
